@@ -3,7 +3,7 @@
     SCL              SCL (VL53L0X Sensor TOF)
     A0               Data Soil Moisture
  
- Pin NodeMCU     >          Servo
+ Pin NodeMCU     >       Servo Pin DATA
   D0 = 16              Pintu 0 (Utama)
   D3 = 0               Pintu 1
   D4 = 2               Pintu 2
