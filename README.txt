@@ -1,3 +1,10 @@
+Platform : Cayenne
+Mengunakan Mikrokontrel : Nodemcu Esp8266
+Sensor : - DHT11
+              - Soil Moisture Sensor
+Aktuator : - Servo 180'
+ 
+ 
  PIN NodeMCU    >           PIN Sensor
     SDA              SDA (VL53L0X Sensor TOF)
     SCL              SCL (VL53L0X Sensor TOF)
