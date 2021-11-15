@@ -1,7 +1,7 @@
 Platform : Cayenne
 Mengunakan Mikrokontrel : Nodemcu Esp8266
 Sensor : - DHT11
-              - Soil Moisture Sensor
+         - Soil Moisture Sensor
 Aktuator : - Servo 180'
  
  
