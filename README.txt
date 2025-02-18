@@ -3,6 +3,7 @@ Mikrokontrel : Nodemcu Esp8266
 Sensor : - VL53L0X Sensor TOF
          - Soil Moisture Sensor
 Aktuator : - Servo 180'
+           - Relay 4 Channel
  
  
  PIN NodeMCU    >           PIN Sensor
